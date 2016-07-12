@@ -1,1 +1,1 @@
-关于各种设计模式的实现
+The Examples of each Pattern Design
